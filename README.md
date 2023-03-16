@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Nexus)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-Nexus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Nexus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
